@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3780d5d8-7e6c-455e-a9e5-973937b07316" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/.idea/Flask_blog.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/.idea/dictionaries/Hp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/10TH_RESULT.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/12TH_RESULT.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/FE_RESULT.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/css/clean-blog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/css/clean-blog.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/img/about-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/img/contact-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/img/home-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/img/login.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/img/post-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/img/post-sample-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/js/clean-blog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/js/clean-blog.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/js/contact_me.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/js/jqBootstrapValidation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/signin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/css/all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/css/all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/css/brands.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/css/brands.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/css/fontawesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/css/fontawesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/css/regular.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/css/regular.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/css/solid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/css/solid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/css/svg-with-js.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/css/svg-with-js.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/css/v4-shims.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/css/v4-shims.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/webfonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/webfonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/webfonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/webfonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/webfonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/webfonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/webfonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/webfonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/fontawesome-free/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/jquery/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/jquery/jquery.slim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/jquery/jquery.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/static/vendor/jquery/jquery.slim.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/templates/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/templates/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/templates/dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/templates/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/templates/layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Flask_blog/templates/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1d46siMHNrzYAvBM1gA1dZUK4OP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hp\PycharmProjects\python\flaskjamal\blog\blog\static\images" />
+      <recent name="C:\Users\Hp\PycharmProjects\python\flaskjamal\blog\blog" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3780d5d8-7e6c-455e-a9e5-973937b07316" name="Default Changelist" comment="" />
+      <created>1591672226674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591672226674</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="982" y="153" key="FileChooserDialogImpl" timestamp="1592904692869">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="982" y="153" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1592904692869" />
+    <state x="602" y="85" key="SettingsEditor" timestamp="1591758912774">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="602" y="85" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1591758912774" />
+  </component>
+</project>
